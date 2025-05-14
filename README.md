@@ -19,8 +19,8 @@
 ```
 notes_for_Deep_Learning_from_Scratch/
 │
-├── README.md                             # 仓库说明
 ├── Deep_Learning_from_Scratch.pdf        # 原书pdf
+├── README.md                             # 仓库说明
 ├── chap1.ipynb                           # 第1章 Python入门
 ├── chap2.ipynb                           # 第2章 感知机
 ├── chap3.ipynb                           # 第3章 神经网络
