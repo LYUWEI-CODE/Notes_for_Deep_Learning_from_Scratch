@@ -19,15 +19,16 @@
 ```
 notes_for_Deep_Learning_from_Scratch/
 │
-├── README.md                # 仓库说明
-├── chap1.ipynb              # 第1章 Python入门
-├── chap2.ipynb              # 第2章 感知机
-├── chap3.ipynb              # 第3章 神经网络
-├── chap4.ipynb              # 第4章 神经网络的学习
-├── chap5.ipynb              # 第5章 误差反向传播法
-├── chap6.ipynb              # 第6章 与学习相关的技巧
-├── chap7.ipynb              # 第7章 卷积神经网络
-├── chap8.ipynb              # 第8章 深度学习
+├── README.md                             # 仓库说明
+├── Deep_Learning_from_Scratch.pdf        # 原书pdf
+├── chap1.ipynb                           # 第1章 Python入门
+├── chap2.ipynb                           # 第2章 感知机
+├── chap3.ipynb                           # 第3章 神经网络
+├── chap4.ipynb                           # 第4章 神经网络的学习
+├── chap5.ipynb                           # 第5章 误差反向传播法
+├── chap6.ipynb                           # 第6章 与学习相关的技巧
+├── chap7.ipynb                           # 第7章 卷积神经网络
+├── chap8.ipynb                           # 第8章 深度学习
 ```
 
 每个 `.ipynb` 文件对应书中一章，内容包括：
@@ -50,3 +51,23 @@ jupyter notebook
 ## 💡 目的
 
 这个项目旨在帮助我更好地理解深度学习的基本原理，同时也希望能为其他读者提供一个参考。欢迎提出改进建议或贡献！
+
+----
+
+## 📄 许可说明
+
+- 本项目中笔记部分由我本人整理撰写，欢迎参考与交流。
+- 原书版权归原作者及出版社所有，上传的 PDF 文件仅供个人学习使用，请勿作他用。
+
+---
+
+## 📬 联系方式
+
+如果你在阅读笔记过程中有任何建议或问题，欢迎通过以下方式联系我：
+
+- 提交 [Issues](https://github.com/LYUWEI-CODE/Notes_for_Deep_Learning_from_Scratch/issues)
+- 或通过 GitHub 与我取得联系
+
+------
+
+希望这些笔记能对你的学习有所帮助，也欢迎大家一起交流深度学习的学习心得！
